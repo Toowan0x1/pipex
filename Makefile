@@ -20,8 +20,7 @@ OBJ = $(SRC:c=o)
 SRCB =	./bonus.c \
 		./gnl/gnl.c \
 		./utils/file_opener.c \
-		./utils/error_manager_00.c \
-		./utils/error_manager_01.c \
+		./utils/error_manager.c \
 		./utils/heredoc_utils.c \
 		./funcs/split.c   ./funcs/strichr.c ./funcs/strchr.c \
 		./funcs/strlen.c ./funcs/substr.c ./funcs/strdup_sep.c \
