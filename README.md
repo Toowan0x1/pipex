@@ -6,5 +6,5 @@ The "Pipex 42 project" is a programming project focused on implementing multiple
 
 <div align="center">
  <img src="https://raw.githubusercontent.com/Toowan0x1/pipex/master/HereDoc.png">
-<img src="https://images.ctfassets.net/qv0hcw26u3ts/1hTFD5JbxRO9Z8WmwI8dIn/72028ab54271595e435d0553e26f8ef2/Screen_Shot_2021-01-16_at_17.34.27.png">
+<!-- <img src="https://images.ctfassets.net/qv0hcw26u3ts/1hTFD5JbxRO9Z8WmwI8dIn/72028ab54271595e435d0553e26f8ef2/Screen_Shot_2021-01-16_at_17.34.27.png"> -->
 </div>
